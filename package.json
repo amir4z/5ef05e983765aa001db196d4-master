@@ -1,0 +1,11 @@
+{
+    "name": "@runkit/amirtezgalinew_5ef05e983765aa001db196d4",
+    "version": "0.0.0-master",
+    "main": "./lib/5ef05e983765aa001db196d4",
+    "dependencies": {
+        "async-get-json": "4.0.0"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
